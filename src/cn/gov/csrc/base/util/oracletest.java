@@ -15,6 +15,7 @@ public class oracletest {
     //url中使用本地的ip地址需要将修改listeer.org文件。不过使用无线局域网的地址却可以连接
     //在使用tomcat时一直卡住还以为是tomcat的问题，结果是oracle的问题
     //可以使用其他的
+    //
 
     private static final String username = "zcaqgl_biz_test";
 
